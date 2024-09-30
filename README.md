@@ -35,7 +35,4 @@
 <br />
 
 
-<iframe
-  title='disquiet-badge'
-  src='https://badge.disquiet.io/vote-badge?productUrlSlug=slim-dealz&mode=light'
-/>
+<iframe title='disquiet-badge' src='https://badge.disquiet.io/vote-badge?productUrlSlug=slim-dealz&mode=light'/>
