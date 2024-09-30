@@ -22,7 +22,7 @@
  
  
 </div>
-#### I've used it before.
+I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -35,4 +35,4 @@
 <br />
 
 
-<iframe title='disquiet-badge' src='https://badge.disquiet.io/vote-badge?productUrlSlug=slim-dealz&mode=light'/>
+<img title='disquiet-badge' src='https://badge.disquiet.io/vote-badge?productUrlSlug=slim-dealz&mode=light'/>
