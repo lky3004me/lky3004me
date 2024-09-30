@@ -34,5 +34,3 @@ I've used it before.
 <br />
 <br />
 
-
-<img title='disquiet-badge' src='https://badge.disquiet.io/vote-badge?productUrlSlug=slim-dealz&mode=light'/>
